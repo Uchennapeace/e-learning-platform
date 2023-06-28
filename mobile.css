@@ -26,10 +26,14 @@ body{
     font-size: 30px;
     text-align: center;
 }
-.started{
+
+/* .started{
     margin-top: 20px;
-    margin-left: 70px;
+    margin-left: 50px;
 }
+.vector1{
+    margin-left: 2em;
+} */
 .image1{
     height: 40%;
     width: 70%;
@@ -66,7 +70,7 @@ body{
 }
 .readmore{
     margin-top: 2px;
-    margin-left: 150px; 
+    margin-left: 100px;
 
 }
 
@@ -211,7 +215,7 @@ body{
 }
 .flex7btn{
     margin-top: 2px;
-    margin-left: 150px;
+    margin-left: 100px;
     
 
 }
@@ -227,20 +231,20 @@ align-items: center;
 
 
  .img9{
-width: 120px;
+width: 80px;
 
 
 }
 .img10{
-    width: 120px;
+    width: 80px;
 }
 .img11{
 
-    width: 120px;
+    width: 80px;
 }
 .img12{
 
-    width: 60px;
+    width: 40px;
 } 
 /*footer*/
 .footerflex{
